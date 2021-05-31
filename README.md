@@ -1,4 +1,6 @@
-### Hi there 👋
+## 🍋 토독토독 자판 위를 걸어가는 주니어 개발자 김민지입니다
+## 🗺 Experience
+1. Developer in KFACE (2020.12 ~ )
 
 <!--
 **minji7574/minji7574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,12 +3,10 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                               
 </div>
 
-### 🍋 개발자 김민지입니다
-<br/>
+### 🍋 토독토독 개발자 김민지입니다
 
 ### 📌 Experience
-1. Developer in **KFace** `(2020.12 ~ )`
-<br/>
+ *  **KFace** - Web Developer `(2020.12 ~ )`
 <br/>
 
 |Github Stats | Most used language |

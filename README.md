@@ -3,7 +3,7 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji7574%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                       
 </div>
 
-### 🍋 토독토독 개발자 김민지입니다
+### 🍋 토독토독 차근차근  개발자 김민지입니다
 
 ### 📌 Experience
  *  **KFace** - Web Developer `(2020.12 ~ )`

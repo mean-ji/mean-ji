@@ -12,6 +12,9 @@
 |Github Stats | Most used language |
 |-|-|
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minji7574)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minji7574)
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=winteri)](https://velog.io/@winteri) 
   
 
 <!--

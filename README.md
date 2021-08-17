@@ -6,7 +6,7 @@
 ### 🍋 `<div id="개발자 김민지입니다" />`
 
 ### 📌 Experience
- *  **KFace** - Web Developer `(2020.12 ~ )`
+ *  **KFace** `🏠 디디하우스` `✅ 체킹` - Web Developer `(2020.12 ~ )`
 <br/>
 
 |Github Stats | Most used language |

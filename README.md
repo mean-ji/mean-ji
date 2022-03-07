@@ -3,7 +3,7 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji7574%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                       
 </div>
 
-### 🍋 `<div id="🧂다수와 함께의 가치를 믿는 소금같은 개발자 김민지입니다.🧂" />`
+### 🍋 `<div id="🧂군더더기 없이 깔끔하고 정돈된 코드를 위해 끊임없이 공부하는 개발자 다수입니다🧂" />`
 
 ### 📌 Experience
  *  **KFace** - Web Developer `(2020.12 ~ )`

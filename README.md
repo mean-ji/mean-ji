@@ -5,14 +5,14 @@
 
 ### 🍋 `<div id="군더더기 없이 깔끔하고 정돈된 것의 가치를 믿는 개발자 다수입니다⚪️" />`
 
-### 📌 Experience
- *  **KFace** - Web Developer `(2020.12 ~ )`
+### 📌 경력
+ *  **케이페이스** - Back-end, Front-end Developer `(2020.12 ~ )`
 <br/>
 
-|Github Stats | Most used language |
+<!-- |Github Stats | Most used language |
 |-|-|
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minji7574)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minji7574)
-
+ -->
 <!--
 **minji7574/minji7574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

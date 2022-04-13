@@ -6,10 +6,10 @@
 ### `<div id="저만의 채도로 "끈질김"을 그려나가는 개발자 다수입니다⚪️" />`
 
 ### 경력
- *  **케이페이스** - Back-end, Front-end Developer `(2020.12.21 ~ )`
+ **케이페이스** - Back-end, Front-end Developer `(2020.12.21 ~ )`
 
 ### Blog
- * <a href="https://velog.io/@dasu" target="_blank">기억하고 싶은 다수의 개발기록</a>
+ <a href="https://velog.io/@dasu" target="_blank">기억하고 싶은 다수의 개발기록</a>
 <br/>
 
 <!-- |Github Stats | Most used language |

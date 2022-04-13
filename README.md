@@ -3,10 +3,13 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji7574%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                       
 </div>
 
-### `<div id="군더더기 없이 깔끔하고 단정한 것의 가치를 믿는 개발자 다수입니다⚪️" />`
+### `<div id="저만의 채도로 "끈질김"을 그려나가는 개발자 다수입니다⚪️" />`
 
 ### 경력
  *  **케이페이스** - Back-end, Front-end Developer `(2020.12.21 ~ )`
+
+### 기억하고 싶은 다수 시리즈
+ * [기억하고 싶은 다수의 개발기록](https://velog.io/@dasu)
 <br/>
 
 <!-- |Github Stats | Most used language |

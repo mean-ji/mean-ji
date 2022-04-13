@@ -9,7 +9,7 @@
  *  **케이페이스** - Back-end, Front-end Developer `(2020.12.21 ~ )`
 
 ### Blog
- * [기억하고 싶은 다수의 개발기록](https://velog.io/@dasu)
+ * [기억하고 싶은 다수의 개발기록](https://velog.io/@dasu){:target="_blank"}
 <br/>
 
 <!-- |Github Stats | Most used language |

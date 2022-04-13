@@ -8,7 +8,7 @@
 ### 경력
  *  **케이페이스** - Back-end, Front-end Developer `(2020.12.21 ~ )`
 
-### 기억하고 싶은 다수 시리즈
+### Blog
  * [기억하고 싶은 다수의 개발기록](https://velog.io/@dasu)
 <br/>
 

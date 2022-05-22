@@ -10,7 +10,7 @@
  **케이페이스** - Back-end, Front-end Developer `(2020.12.21 ~ )`
 
 ### 📝 Blog
- <a href="https://velog.io/@dasu" target="_blank">맑고 투명한 다수의 개발기록</a>
+ <a href="https://velog.io/@dasu" target="_blank">맑고 투명한 다수의 개발 기록</a>
 <br/>
 
 <!-- |Github Stats | Most used language |
